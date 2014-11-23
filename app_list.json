@@ -1,0 +1,11 @@
+{"android_app": {
+    "main_url":"http://ds1.ltzteam.com/android_apps/",
+    "app_list": [
+            {"version":"4.2.1", "title":"鐖卞惉涔� 鏃犲箍鍛婄増", "size":"1.42", "icon_url":"/aitingshu/icons/icon.png", "pname":"com.ltz.web.tingshu", "type":"web", "url":"http://oss.aliyuncs.com/androidhd/android_apps/JWebTingShuMain_10000_4.2.1.apk", "desc":"淇璧勬簮鏃犳硶鎾斁鐨勯棶棰橈紝鎷ユ湁娴烽噺銆佹渶鏂拌繛杞芥湁澹拌祫婧愶紝渚涙偍涓嬭浇銆佽亞鍚€�"},
+            {"version":"4.2.0", "title":"璇昏€�2014", "size":"6.20", "icon_url":"/duzhe/icons/icon.png", "pname":"com.ltz.bookreader.duzhe", "type":"web", "url":"http://susapi.lenovomm.com/adpserver/DLBIDFS?ds=15482_6486701&rt=POL", "desc":"涓嬭浇绂荤嚎闃呰锛屽唴瀹规洿鏂拌嚦锛�2014骞寸2鏈熴€� 缁х画杩炶浇涓�..."},
+            {"version":"4.2.0", "title":"鏁呬簨浼�2014", "size":"3.21", "icon_url":"/gsh/icons/icon.png", "pname":"com.ltz.bookreader.gsh", "type":"web", "url":"http://susapi.lenovomm.com/adpserver/DLBIDFS?ds=15481_3343446&rt=POL", "desc":"鍏ㄦ柊鏀圭増锛屽唴瀹规洿鏂拌嚦锛�2013骞�24鏈熴€� 缁х画杩炶浇涓�..."},
+            {"version":"4.1.1", "title":"闈掑勾鏂囨憳 绮惧崕鍗冪瘒", "size":"3.01", "icon_url":"/qnwz/icons/icon.png", "pname":"com.ltz.book.qnwz", "type":"web", "url":"http://susapi.lenovomm.com/adpserver/DLBIDFS?ds=15480_3144645&rt=POL", "desc":"涓嬭浇绂荤嚎闃呰锛屽唴瀹规洿鏂拌嚦锛�2012骞寸15鏈熴€� 缁х画杩炶浇涓�..."},
+            {"version":"6.1.0", "title":"鏂板崕瀛楀吀", "size":"10.68", "icon_url":"/xhzd/icons/icon.png", "pname":"com.ltz.dict.charactersdict", "type":"web", "url":"http://susapi.lenovomm.com/adpserver/DLBIDFS?ds=24681_11024771&rt=POL", "desc":"杞欢鍏ㄩ潰浼樺寲鍗囩骇锛屽苟鎻愪緵鏃犵Н鍒嗗厤璐圭绾胯闊冲寘涓嬭浇銆�"}
+    ]
+    }
+}
